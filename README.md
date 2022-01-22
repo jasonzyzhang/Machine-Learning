@@ -1,2 +1,2 @@
 # Machine-Learning
-select coursework projects in Machine learning and Data Science courses
+select coursework projects in Machine Learning and Data Science courses
